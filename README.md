@@ -9,21 +9,13 @@ This project aims to analyze historical stock prices, compute moving averages fo
       5. Jaimin Vedant 
      
      
-     Contributors 
-      1. Bansari Timbadiya [
-      2. janvi Patel 
-      3. Archi Vyas 
-      4. Jay Barrot 
-      5. Jaimin Vedant 
-     
-     
      
      Technologies and Libraries
-Programming Language: Python
+     Programming Language: Python
 Libraries:
 Data Analysis: Pandas, NumPy
 Visualization: Matplotlib, Seaborn, Plotly
-Data Retrieval: yfinance, Alpha Vantage API 
+Data Retrieval: Alpha Vantage API 
 
 
 Table of content 
