@@ -6,7 +6,14 @@ This project aims to analyze historical stock prices, compute moving averages fo
       2. janvi Patel 
       3. Archi Vyas 
       4. Jay Barrot 
-      5. Jaimin Vedant 
+      5. Jaimin Vedant  
+
+              Construbitors 
+              Ku2407u263- bansari
+ku2407u264-jay
+ku2407u296-jaimin 
+ku2407u299-janvi
+ku2407u254-aarchi
      
      
      
