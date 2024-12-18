@@ -17,11 +17,11 @@ This project aims to analyze historical stock prices, compute moving averages fo
        Forest cover loss Analysis 
 
 ## Contributors
-1.  Bansari timbadiya (KU2407U323)_ Python coding 
-2.  Archi Vyas (KU2407U278)_ Manage all the files 
-3.  Janvi Patel(KU2407U377)_ manage all the dataset 
-4.  Jay Barrot (KU2407U271)_ code exection and code screenshot 
-5.  Jaimin Vedant (KU2407U268)_ Support in all the department 
+1.  Bansari timbadiya (KU2407U263)_ Python coding 
+2.  Archi Vyas (KU2407U254)_ Manage all the files 
+3.  Janvi Patel(KU2407U299)_ manage all the dataset 
+4.  Jay Barrot (KU2407U264)_ code exection and code screenshot 
+5.  Jaimin Vedant (KU2407U296)_ Support in all the department, manages all pyton coding 
 
   
 
