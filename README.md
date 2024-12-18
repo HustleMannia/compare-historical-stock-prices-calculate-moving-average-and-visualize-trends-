@@ -14,7 +14,7 @@ This project aims to analyze historical stock prices, compute moving averages fo
        2. Nampy 
        3. seashore 
 
-       Forest cover loss Analysis 
+       Inian stock Market  
 
 ## Contributors
 1.  Bansari timbadiya (KU2407U263)_ Python coding 
@@ -41,7 +41,9 @@ This project aims to analyze historical stock prices, compute moving averages fo
 ---
 
 ## Introduction
-This project explores Forest cover loss  within India and globally. Using data-driven analysis, we aim to understand key trends, factors of Forest Cover loss , and the socio-economic impact. The project involves data preprocessing, statistical analysis, and visualization of Forst cover loss 
+Stock market analysis is essential for investors, analysts, and enthusiasts to make informed decisions about their investments. By comparing historical stock prices and analyzing trends using moving averages, one can identify patterns, predict market behavior, and reduce risks.
+
+This project focuses on visualizing stock price trends and incorporating moving averages to smoothen price fluctuations, making trends more apparent. With an interactive and user-friendly web interface,
 
 ## Objective
 The objective is to identify Indian stock price  , uncover key insights, and present a clear understanding of patterns in population movement over time. 
