@@ -14,7 +14,7 @@ This project aims to analyze historical stock prices, compute moving averages fo
        2. Nampy 
        3. seashore 
 
-       Inian stock Market  
+       Indian stock Market  
 
 ## Contributors
 1.  Bansari timbadiya (KU2407U263)_ Python coding 
